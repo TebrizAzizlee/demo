@@ -1,1 +1,5 @@
 melumatbazasi.txt
+
+dd/*.html
+
+!dd/file1.html
